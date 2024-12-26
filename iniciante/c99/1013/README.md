@@ -1,26 +1,25 @@
-QUESTÃO 1013 - O Maior
+# QUESTÃO 1013 - O Maior
+> Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”. 
 
-Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”. 
-
-Utilize a fórmula:
+> Utilize a fórmula:
 - (a + b + abs(a-b)) / 2;
 
-Obs.: a fórmula apenas calcula o maior entre os dois primeiros (a e b). Um segundo passo, portanto é necessário para chegar no resultado esperado.
+> Obs.: a fórmula apenas calcula o maior entre os dois primeiros (a e b). Um segundo passo, portanto é necessário para chegar no resultado esperado.
 
->>>>    Entrada ->
-O arquivo de entrada contém três valores inteiros.
+## Entrada ->
+> O arquivo de entrada contém três valores inteiros.
 
->>>>    Saída ->
-Imprima o maior dos três valores seguido por um espaço e a mensagem "eh o maior".
+## Saída ->
+> Imprima o maior dos três valores seguido por um espaço e a mensagem "eh o maior".
 
-Exemplo de Entrada
+## Exemplo de Entrada
 > 7 14 106
 
-Exemplo de Saída
+## Exemplo de Saída
 > 106 eh o maior
 
-Exemplo de Entrada
+## Exemplo de Entrada
 > 217 14 6
 
-Exemplo de Saída
+## Exemplo de Saída
 > 217 eh o maior
